@@ -9,7 +9,7 @@ function App() {
         <div className="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
           <div className="max-w-md mx-auto">
             <div className="flex items-center space-x-2">
-              <img src={logo} className="h-7 sm:h-8" />
+              <img src={logo} alt="Logo" className="h-7 sm:h-8" />
               <div className="text-2xl font-bold text-gray-700">
                 Debian Download
               </div>
