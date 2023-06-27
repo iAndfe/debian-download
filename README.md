@@ -1,7 +1,7 @@
-# Simple Debian Download landing page created in React
+# Simple Debian Download landing page created in React (Node.js 18 LTS)
 
-In the project directory, you can run:
+To install packages:
+### `npm install`
 
-### `npm install` to install packages
-
-### `npm start` to start the webapp
+To start the webapp:
+### `npm start`
