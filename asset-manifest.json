@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/debian-download/static/css/main.151c50cc.css",
-    "main.js": "/debian-download/static/js/main.897d4df1.js",
+    "main.css": "/debian-download/static/css/main.7e300637.css",
+    "main.js": "/debian-download/static/js/main.ecf36900.js",
     "static/js/787.860cf8c0.chunk.js": "/debian-download/static/js/787.860cf8c0.chunk.js",
     "static/media/logo.svg": "/debian-download/static/media/logo.c506765f5dd94041cdb33aec6ad60e9c.svg",
     "index.html": "/debian-download/index.html",
-    "main.151c50cc.css.map": "/debian-download/static/css/main.151c50cc.css.map",
-    "main.897d4df1.js.map": "/debian-download/static/js/main.897d4df1.js.map",
+    "main.7e300637.css.map": "/debian-download/static/css/main.7e300637.css.map",
+    "main.ecf36900.js.map": "/debian-download/static/js/main.ecf36900.js.map",
     "787.860cf8c0.chunk.js.map": "/debian-download/static/js/787.860cf8c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.151c50cc.css",
-    "static/js/main.897d4df1.js"
+    "static/css/main.7e300637.css",
+    "static/js/main.ecf36900.js"
   ]
 }
