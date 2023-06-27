@@ -1,4 +1,6 @@
-# Simple Debian Download landing page created in React (Node.js 18 LTS)
+# Simple Debian Download landing page
+
+Basic react app for debian download links created in React (Node.js 18 LTS)
 
 To install packages:
 ### `npm install`
